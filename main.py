@@ -1,6 +1,6 @@
 ##############################DSA Final Project################################
-#######################Syed Muhammad Abdullah Al Muttaqui######################
-################################sa06146#######################################
+#######################Sorting ALgorithms Visualizer######################
+
 
 from tkinter import *
 from tkinter import ttk
